@@ -1,0 +1,11 @@
+Paris est la capitale de la Franche ? | TRUE
+Les BCAA sont des acides aminés essentiels en Musculation ? | TRUE
+Limoges est la plus grande ville du monde ? | FALSE
+La lune est une planète ? | FALSE
+Twitter est le réseau social le plus utilisé ? | FALSE
+Flutter est un langage de programmation ? | FALSE
+Minecraft est un jeu vidéo ? | TRUE
+Lucifer est une série original Netflix ? | TRUE
+Louis XVI s'est suicidé ? | FALSE
+Les prochains JO seront à Paris ? | TRUE
+
